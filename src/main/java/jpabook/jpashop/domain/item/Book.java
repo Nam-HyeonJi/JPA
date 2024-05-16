@@ -2,7 +2,7 @@ package jpabook.jpashop.domain.item;
 
 import jakarta.persistence.DiscriminatorValue;
 import jakarta.persistence.Entity;
-import jpabook.jpashop.Controller.BookForm;
+import jpabook.jpashop.controller.BookForm;
 import lombok.Getter;
 import lombok.Setter;
 
